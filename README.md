@@ -18,13 +18,13 @@ It demonstrates the use of stack data structures and operator precedence rules.
 PROJECT STRUCTURE Project Structure
 
 ── InfixConversion.java   → Main Java program
-── Assignment.docx     → Contains pseudocode + images
+── Assignment.pdf     → Contains pseudocode + images
 └── README.md
 
 
 DOCUMENTATION FILE 
 
-The file "documentation.txt" contains:
+The file "Assignment.pdf" contains:
 
 - Pseudocode for Infix to Postfix
 - Pseudocode for Infix to Prefix
@@ -59,7 +59,7 @@ INFIX TO PREFIX
 
 IMAGES
 
-All diagrams related to the workflow are included inside "Assignment.docx".
+All diagrams related to the workflow are included inside "Assignment.pdf".
 
 HOW TO RUN
 
